@@ -9,4 +9,4 @@
   with:
     context: .
     push: true
-    tags: azhar-nawab/my-static-site:latest
+    tags: azhar-nawab/github-actions-docker-cicd:latest
