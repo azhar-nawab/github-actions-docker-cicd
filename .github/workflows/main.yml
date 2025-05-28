@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: azhar-nawab/github-actions-docker-cicd:latest
+          tags: azhardevops/github-actions-docker-cicd:latest
