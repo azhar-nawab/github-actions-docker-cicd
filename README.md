@@ -29,7 +29,7 @@ No cloud services (like AWS/GCP/Azure) are used — it’s a fully local solutio
 │ └── workflows/
 │ └── ci-cd.yml # GitHub Actions pipeline
 ├── app/
-│ ├── app.py # Sample application (Flask/Python)
+│ ├── app.py # Sample application (Python)
 │ └── requirements.txt # App dependencies
 ├── Dockerfile # Docker build instructions
 ├── docker-compose.yml # For local testing (optional)
@@ -37,12 +37,14 @@ No cloud services (like AWS/GCP/Azure) are used — it’s a fully local solutio
 │ ├── deployment.yaml # Kubernetes Deployment config
 │ └── service.yaml # Kubernetes Service config
 ├── screenshots/ # Screenshots of build and deployment
-└── README.md # Project overview (this file)
+└── README.md # Project overview
+
+## 📤 Deliverables
 
 ## 📤 Deliverables
 
 - ✅ **GitHub Repository**: Contains the complete project with CI/CD pipeline and source code.  
-  👉 [GitHub Repo Link](https://github.com/<your-username>/ci-cd-docker-k8s)
+  👉 [GitHub Repo Link]()
 
 - ✅ **Docker Image**: Built and pushed to Docker Hub.  
   👉 [`docker.io/<your-username>/myapp`](https://hub.docker.com/r/<your-username>/myapp)
