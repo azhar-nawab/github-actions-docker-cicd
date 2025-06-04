@@ -44,7 +44,7 @@ No cloud services (like AWS/GCP/Azure) are used — it’s a fully local solutio
 ## 📤 Deliverables
 
 - ✅ **GitHub Repository**: Contains the complete project with CI/CD pipeline and source code.  
-  👉 [GitHub Repo Link]()
+  👉 [GitHub Repo Link](https://github.com/azhar-nawab/github-actions-docker-cicd.git)
 
 - ✅ **Docker Image**: Built and pushed to Docker Hub.  
   👉 [`docker.io/<your-username>/myapp`](https://hub.docker.com/r/<your-username>/myapp)
