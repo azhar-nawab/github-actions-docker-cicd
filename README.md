@@ -42,10 +42,11 @@ No cloud services (like AWS/GCP/Azure) are used — it’s a fully local solutio
 ## 📤 Deliverables
 
 - ✅ **GitHub Repository**: Contains the complete project with CI/CD pipeline and source code.  
-  👉 [`GitHub Repo Link`](https://github.com/azhar-nawab/github-actions-docker-cicd.git)
+  👉 [GitHub Repo Link](https://github.com/azhar-nawab/github-actions-docker-cicd)
 
 - ✅ **Docker Image**: Built and pushed to Docker Hub.  
-  👉 [`docker.io/<your-username>/myapp`](https://hub.docker.com/repositories/azhardevops)
+  👉 [docker.io/azhardevops/myapp](https://hub.docker.com/repository/docker/azhardevops/myapp)
+
 
 - ✅ **CI/CD Workflow Results**: Viewable in the **Actions** tab of the GitHub repo.  
   Includes logs for build, test, and Docker image push stages.
